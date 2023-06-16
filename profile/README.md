@@ -13,7 +13,8 @@ It consists of:
 - [app-in-browser](https://github.com/HIP-infrastructure/app-in-browser): Package to build, manage, and orchestrate the apps that can be run and rendered directly in the HIP via the in-browser Desktops. 
 The Dockerfile description of each app available in a Desktop of the HIP is managed in separate repositories.
 - [ghostfs](https://github.com/HIP-infrastructure/ghostfs): container image that includes a distributed file system tailored to the HIP.
-- [datahipy](https://github.com/HIP-infrastructure/datahipy): containerized tool written in Python to manage neuroimaging data in the HIP 
+- [datahipy](https://github.com/HIP-infrastructure/datahipy): containerized tool written in Python to manage neuroimaging data in the HIP.
+- [docker-elk](https://github.com/HIP-infrastructure/docker-elk): Variation of the Elastic stack (ELK) powered by Docker and Compose project (docker-elk) tailored to the HIP to index BIDS datasets.
 
 A selection of the core components have been pinned below.
 
