@@ -1,8 +1,11 @@
 # Welcome to the GitHub Organization for the Human Intra-cranial EEG Plaform (HIP) project!
 
-It is used to store, manage, and share the code source of all components behind the HIP.
+## Goal
+Store, manage, and share the code source of all components behind the HIP.
 
-It consists of the following repositories: 
+## HIP Components
+
+It consists of: 
 - [frontend](https://github.com/HIP-infrastructure/frontend): Meta package that handles all HIP frontend components including: 
   - [nextcloud-docker](https://github.com/HIP-infrastructure/nextcloud-docker): Nextcloud instance on which the frontend is based.
   - [gateway](https://github.com/HIP-infrastructure/gateway): Gateway and services for the HIP.
@@ -12,4 +15,12 @@ The Dockerfile description of each app available in a Desktop of the HIP is mana
 - [ghostfs](https://github.com/HIP-infrastructure/ghostfs): container image that includes a distributed file system tailored to the HIP.
 - [datahipy](https://github.com/HIP-infrastructure/datahipy): containerized tool written in Python to manage neuroimaging data in the HIP 
 
-All components are distributed under an open-source license. A selection of the core components have been pinned below.
+A selection of the core components have been pinned below.
+
+## Licensing
+
+All components are distributed under an open-source license. See in their respective repository for more details.
+
+## Funding
+
+This project received funding from the European Union's H2020 Framework Programme for Research and Innovation under the Specific Grant Agreement No. 945539 (Human Brain Project SGA3, as part the Human Intracerebral EEG Platform (HIP)).
