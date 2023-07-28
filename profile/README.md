@@ -1,7 +1,7 @@
-# Welcome to the GitHub Organization for the Human Intra-cranial EEG Plaform (HIP) project!
+# Welcome to the GitHub Organization for the Human Intracerebral EEG Platform (HIP) project!
 
 ## Goal
-Store, manage, and share the code source of all components behind the Human Intra-cranial EEG Plaform (HIP).
+Store, manage, and share the code source of all components behind the Human Intracerebral EEG Plaform (HIP).
 
 ## HIP Components
 
