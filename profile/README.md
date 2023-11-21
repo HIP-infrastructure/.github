@@ -7,7 +7,6 @@ Store, manage, and share the code source of all components behind the Human Intr
 
 It consists of: 
 - [frontend](https://github.com/HIP-infrastructure/frontend): Meta package that handles all HIP frontend components including: 
-  - [nextcloud-docker](https://github.com/HIP-infrastructure/nextcloud-docker): Nextcloud instance on which the frontend is based.
   - [gateway](https://github.com/HIP-infrastructure/gateway): Gateway and services for the HIP.
   - [hip](https://github.com/HIP-infrastructure/hip): Bundled nextcloud app for the HIP.
 - [app-in-browser](https://github.com/HIP-infrastructure/app-in-browser): Backend and custom orchestrator allowing apps to be run and rendered directly in the HIP via the in-browser Desktops. 
