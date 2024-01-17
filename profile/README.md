@@ -13,7 +13,6 @@ It consists of:
 Dockerfiles for HIP apps are managed in separate repositories.
 - [ghostfs](https://github.com/HIP-infrastructure/ghostfs): Integration with GhostFS, a distributed file system tailored to the HIP.
 - [datahipy](https://github.com/HIP-infrastructure/datahipy): Containerized tool written in Python to manage neuroimaging data in the HIP.
-- [docker-elk](https://github.com/HIP-infrastructure/docker-elk): Variation of the Elastic stack (ELK) powered by Docker and Compose project (docker-elk) tailored to the HIP to index BIDS datasets.
 - [HIP-infrastructure.github.io](https://github.com/HIP-infrastructure/HIP-infrastructure.github.io): Repository for the main HIP documentation.
 - [Keycloak and Keycloak API](https://github.com/HIP-infrastructure/keycloak)
 
