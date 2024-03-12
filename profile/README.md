@@ -28,8 +28,10 @@ Follow the installation for thoses components:
 ### Frontend
 - https://github.com/HIP-infrastructure/frontend
 - Get BIDS tools `docker pull registry.hbp.link/hip/datahipy:1.1.0`
-- Install https://github.com/HIP-infrastructure/keycloak 
+- Install https://github.com/HIP-infrastructure/keycloak
 
+### Collab
+- https://github.com/HIP-infrastructure/ghostfs
 
 ## Documentation
 
