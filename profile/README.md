@@ -22,12 +22,13 @@ A selection of the core components is pinned below.
 
 Follow the installation for thoses components:
 ### Backend
-- [app-in-browser](https://github.com/HIP-infrastructure/app-in-browser)
-- If you deploy a collab instance, install GhostFS on the server [ghostfs](https://github.com/HIP-infrastructure/ghostfs)
+- https://github.com/HIP-infrastructure/app-in-browser
+- If you deploy a collab instance, install GhostFS on the server https://github.com/HIP-infrastructure/ghostfs
 
 ### Frontend
-- [frontend](https://github.com/HIP-infrastructure/frontend)
+- https://github.com/HIP-infrastructure/frontend
 - Get BIDS tools `docker pull registry.hbp.link/hip/datahipy:1.1.0`
+- Install https://github.com/HIP-infrastructure/keycloak 
 
 
 ## Documentation
