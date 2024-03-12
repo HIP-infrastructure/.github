@@ -20,10 +20,9 @@ A selection of the core components is pinned below.
 
 ## Install
 
-Follow the installation for thoses components:
+Follow the installation for those components:
 ### Backend
 - https://github.com/HIP-infrastructure/app-in-browser
-- If you deploy a collab instance, install GhostFS on the server https://github.com/HIP-infrastructure/ghostfs
 
 ### Frontend
 - https://github.com/HIP-infrastructure/frontend
@@ -31,7 +30,7 @@ Follow the installation for thoses components:
 - Install https://github.com/HIP-infrastructure/keycloak
 
 ### Collab
-- https://github.com/HIP-infrastructure/ghostfs
+- If you deploy a Collab instance, install GhostFS on a Collab server https://github.com/HIP-infrastructure/ghostfs
 
 ## Documentation
 
