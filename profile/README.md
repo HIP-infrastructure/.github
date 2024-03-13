@@ -21,6 +21,9 @@ A selection of the core components is pinned below.
 ## Install
 
 Follow the installation for those components:
+### Keycloak
+- https://github.com/HIP-infrastructure/keycloak
+
 ### Backend
 - https://github.com/HIP-infrastructure/app-in-browser
 
