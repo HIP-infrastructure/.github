@@ -13,7 +13,7 @@ It consists of:
 Dockerfiles for HIP apps are managed in separate repositories.
 - [ghostfs](https://github.com/HIP-infrastructure/ghostfs): Integration with GhostFS, a distributed file system tailored to the HIP.
 - [datahipy](https://github.com/HIP-infrastructure/datahipy): Containerized tool written in Python to manage neuroimaging data on the HIP.
-- [Keycloak and Keycloak API](https://github.com/HIP-infrastructure/keycloak): Used to manage AuthN and AuthZ on the HIP.
+- [Keycloak and Keycloak API](https://github.com/HIP-infrastructure/keycloak): Required to manage AuthN and AuthZ on the HIP.
 - [HIP-infrastructure.github.io](https://github.com/HIP-infrastructure/HIP-infrastructure.github.io): Repository for the main HIP documentation.
 
 A selection of the core components is pinned below.
