@@ -21,19 +21,21 @@ A selection of the core components is pinned below.
 ## Install
 
 Follow the installation for those components:
-### Keycloak
-- https://github.com/HIP-infrastructure/keycloak
+
+
+### Collab
+- If you deploy a Collab instance, install GhostFS on a Collab server https://github.com/HIP-infrastructure/ghostfs
 
 ### Backend
 - https://github.com/HIP-infrastructure/app-in-browser
 
+### Keycloak (if you are not using not using ebrain IAM as upstream)
+- https://github.com/HIP-infrastructure/keycloak
+
 ### Frontend
+- Install https://github.com/HIP-infrastructure/keycloak
 - https://github.com/HIP-infrastructure/frontend
 - Get BIDS tools `docker pull registry.hbp.link/hip/datahipy:1.1.0`
-- Install https://github.com/HIP-infrastructure/keycloak
-
-### Collab
-- If you deploy a Collab instance, install GhostFS on a Collab server https://github.com/HIP-infrastructure/ghostfs
 
 ## Documentation
 
